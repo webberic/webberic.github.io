@@ -13,8 +13,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-**Is this how I do bold text?**
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -29,6 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+**Is this how I do bold text?**
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
