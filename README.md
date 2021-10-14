@@ -29,6 +29,8 @@ Syntax highlighted code block
 ```
 **Is this how I do bold text?**
 
+![Image](https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
